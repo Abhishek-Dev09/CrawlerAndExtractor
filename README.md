@@ -35,6 +35,7 @@ timestamp format - YYYY-MM-DD HH:MM:SS
 Get - http://localhost:8080/GetProductDetailsHistory/sku/timestamp
 
 Example - http://localhost:8080/GetProductDetailsHistory/B07XMLWH7J/2021-03-18 14:00:00
+
 4. List All crawled Products and details till now.
 
 Return all crawled Products with latest page.
